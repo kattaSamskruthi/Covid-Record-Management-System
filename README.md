@@ -13,9 +13,4 @@
 
 ![Screenshot 2022-11-12 224942](https://user-images.githubusercontent.com/78213881/201486499-19edbb81-9818-4cf9-8c4e-35f5c6fb39d8.jpg)
 
-# Contributions
 
-1. Arushi Agrawal - Search Page
-2. Disha Singh - Auth Page, Discussion Forum
-3. Ishika Chauhan - Landing Page, Dashboard
-4. Mounica Sruthi - Creche Page, Profile Page
